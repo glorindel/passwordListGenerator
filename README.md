@@ -1,6 +1,7 @@
 # Password List Generator
 
 This is a Python script for generating wordlists with various options.
+It is good when you know what words you want to use and you want to create many possible ways how to write them.
 
 ## Features
 
